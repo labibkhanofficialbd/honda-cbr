@@ -1,0 +1,93 @@
+/* COMMON STYLES */
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap%22");
+
+body {
+    font-family: "Montserrat", sans-serif;
+  }
+span{
+    color: #E76F51;
+}
+i{
+    color: #E76F51
+}
+/* HEADER SECTION STYLES */
+.menu-btn{
+    background-color: white;
+}
+.nav-bg{
+    background-color: #264653;
+}
+.honda-btn{
+    background-color: #E76F51;
+    color: white;
+    border-radius: 5px;
+    padding: 9px 25px;
+    border: none;
+}
+.hero-section{
+    background-color: #264653;
+    padding-left: 90px;
+    padding-right: 70px;
+    padding-bottom: 70px;
+    padding-top: 10px;
+}
+
+
+/* MAIN SECTION STYLES */
+.featured{
+    display: flex;
+}
+.featured-title{
+    padding-top: 80px;
+}
+.featured-sec{
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.featured-slogan{
+    color: #E76F51;
+    font-weight: bold;
+}
+.featured-bike{
+    filter: grayscale(100%);
+}
+.faq-sec{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.client-sec{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.client{
+    width: 149px;
+    margin: 35px auto;
+}
+.user-third{
+    border-radius: 50%;
+}
+.card-body{
+    text-align: center;
+}
+.clients-aurthor{
+    color: #23A6F0;
+}
+.our-partner{
+    background-color: #264653;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+.get-in-touch-img{
+    width: 80%;
+    margin-top: 30px;
+}
+
+/* FOOTER SECTION STYLES */
+footer{
+    background-color: black;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: gray;
+}
